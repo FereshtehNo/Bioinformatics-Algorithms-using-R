@@ -57,6 +57,12 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#about-the-project"> Hidden Markov Models </a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
   </ol>
 </details>
 
