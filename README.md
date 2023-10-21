@@ -63,47 +63,11 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## ROADMAP
-
-This project aims to develop proficiency in handling short-read and long-read genomic data, performing quality control, creating genome assemblies, and conducting read mapping and variant callingIn this project, you will learn how to analyze short-read and long-read sequencing data,
-perform qualitycontrol, create genome assemblies, and conduct read mapping and
-variant calling. 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Languages Used
 
-Linux Commands and R Packages 
+ R Packages 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Prerequisites
-
-
-* sra
-  ```sh
-  prefetch SRR8185316.sra
-  prefetch  SRR10538956.sra
-  ```
-* fastq-dump
-  ```sh
-  fastq-dump SRR8185316.sra
-  fastq-dump  SRR10538956.sra
- 
- 
-  ```
-### Installation
-
-Install SPAdes, Canu, Quast, BWA, Samtools, Pilon, or any alternative that you want.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
