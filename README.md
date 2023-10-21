@@ -24,31 +24,26 @@
     <li>
       <a href="#about-the-project"> Graph Traversal Algorithms </a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
       <a href="#about-the-project"> Adjacency matrix</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
 	<li>
       <a href="#about-the-project"> DFS </a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
       <a href="#about-the-project"> Global alignment </a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
       <li>
       <a href="#about-the-project"> t-test and Wilcoxon test </a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
         <li>
@@ -60,7 +55,6 @@
     <li>
       <a href="#about-the-project"> Hidden Markov Models </a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
   </ol>
