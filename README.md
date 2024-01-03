@@ -1,21 +1,17 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
-<h3 align="center"> Bioinformatics-Algorithms-using-R </h3>
+<h3 align="center">Bioinformatics-Algorithms-using-R 🧬</h3>
 
   <p align="center">
     Department of Bioinformatics, IBB, University of Tehran
     <br />
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -59,25 +55,17 @@
   </ol>
 </details>
 
-
-
-<!-- ABOUT THE PROJECT -->
-
-## Languages Used
+## Languages Used 💻
 
  R Packages 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- CONTACT -->
-## Contact
+## Contact 📧
 
 Fereshteh Noroozi - [@LinkedIn](https://ir.linkedin.com/in/fereshteh-noroozi-a90886118?original_referer=https%3A%2F%2Fwww.google.com%2F) 
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -85,8 +73,6 @@ Fereshteh Noroozi - [@LinkedIn](https://ir.linkedin.com/in/fereshteh-noroozi-a90
 Department of Bioinformatics, IBB, University of Tehran
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -119,4 +105,3 @@ Department of Bioinformatics, IBB, University of Tehran
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-
